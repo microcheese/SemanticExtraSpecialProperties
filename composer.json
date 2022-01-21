@@ -46,7 +46,7 @@
 			"SESP\\": "src/"
 		}
 	},
-	"config": {
+	"config": { 
 		"process-timeout": 0
 	},
 	"scripts": {
